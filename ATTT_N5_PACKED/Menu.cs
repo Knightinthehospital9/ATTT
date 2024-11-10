@@ -67,5 +67,10 @@ namespace ATTT_N5_PACKED
         {
             Application.Exit();
         }
+
+        private void đơnBảngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

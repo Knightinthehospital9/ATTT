@@ -52,12 +52,26 @@
     <Compile Include="Affine.Designer.cs">
       <DependentUpon>Affine.cs</DependentUpon>
     </Compile>
+    <Compile Include="Caesar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caesar.Designer.cs">
+      <DependentUpon>Caesar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CaeserCipher.cs" />
     <Compile Include="Difine_hellman.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Difine_hellman.Designer.cs">
       <DependentUpon>Difine_hellman.cs</DependentUpon>
     </Compile>
+    <Compile Include="DonBang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DonBang.Designer.cs">
+      <DependentUpon>DonBang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DonBangCipher.cs" />
     <Compile Include="Hill.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,8 +107,14 @@
     <EmbeddedResource Include="Affine.resx">
       <DependentUpon>Affine.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Caesar.resx">
+      <DependentUpon>Caesar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Difine_hellman.resx">
       <DependentUpon>Difine_hellman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonBang.resx">
+      <DependentUpon>DonBang.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Hill.resx">
       <DependentUpon>Hill.cs</DependentUpon>

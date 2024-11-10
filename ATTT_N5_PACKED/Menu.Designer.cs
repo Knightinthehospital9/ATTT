@@ -38,6 +38,8 @@
             this.diffinehellmanToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thoátToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.caesarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.đơnBảngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -53,11 +55,14 @@
             this.vingenereToolStripMenuItem,
             this.hillToolStripMenuItem,
             this.rSAToolStripMenuItem,
+            this.caesarToolStripMenuItem,
+            this.đơnBảngToolStripMenuItem,
             this.diffinehellmanToolStripMenuItem,
             this.thoátToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1028, 53);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(1309, 43);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -146,22 +151,37 @@
             // 
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(0, 53);
+            this.pictureBox1.Location = new System.Drawing.Point(0, 43);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1028, 582);
+            this.pictureBox1.Size = new System.Drawing.Size(1309, 543);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
+            // caesarToolStripMenuItem
+            // 
+            this.caesarToolStripMenuItem.Name = "caesarToolStripMenuItem";
+            this.caesarToolStripMenuItem.Size = new System.Drawing.Size(54, 39);
+            this.caesarToolStripMenuItem.Text = "Caesar";
+            // 
+            // đơnBảngToolStripMenuItem
+            // 
+            this.đơnBảngToolStripMenuItem.Name = "đơnBảngToolStripMenuItem";
+            this.đơnBảngToolStripMenuItem.Size = new System.Drawing.Size(71, 39);
+            this.đơnBảngToolStripMenuItem.Text = "Đơn Bảng";
+            this.đơnBảngToolStripMenuItem.Click += new System.EventHandler(this.đơnBảngToolStripMenuItem_Click);
+            // 
             // Menu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1028, 635);
+            this.ClientSize = new System.Drawing.Size(1309, 586);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Menu";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -186,5 +206,7 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.ToolStripMenuItem rSAToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem diffinehellmanToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem caesarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem đơnBảngToolStripMenuItem;
     }
 }
