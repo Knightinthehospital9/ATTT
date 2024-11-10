@@ -34,9 +34,10 @@
             this.affineToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.vingenereToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.hillToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.rSAToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thoátToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.rSAToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.diffinehellmanToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -52,6 +53,7 @@
             this.vingenereToolStripMenuItem,
             this.hillToolStripMenuItem,
             this.rSAToolStripMenuItem,
+            this.diffinehellmanToolStripMenuItem,
             this.thoátToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -103,6 +105,16 @@
             this.hillToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.hillToolStripMenuItem.Click += new System.EventHandler(this.hillToolStripMenuItem_Click);
             // 
+            // rSAToolStripMenuItem
+            // 
+            this.rSAToolStripMenuItem.AutoSize = false;
+            this.rSAToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("rSAToolStripMenuItem.Image")));
+            this.rSAToolStripMenuItem.Name = "rSAToolStripMenuItem";
+            this.rSAToolStripMenuItem.Size = new System.Drawing.Size(152, 39);
+            this.rSAToolStripMenuItem.Text = "RSA";
+            this.rSAToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.rSAToolStripMenuItem.Click += new System.EventHandler(this.rSAToolStripMenuItem_Click);
+            // 
             // thoátToolStripMenuItem
             // 
             this.thoátToolStripMenuItem.AutoSize = false;
@@ -125,15 +137,14 @@
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
-            // rSAToolStripMenuItem
+            // diffinehellmanToolStripMenuItem
             // 
-            this.rSAToolStripMenuItem.AutoSize = false;
-            this.rSAToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("rSAToolStripMenuItem.Image")));
-            this.rSAToolStripMenuItem.Name = "rSAToolStripMenuItem";
-            this.rSAToolStripMenuItem.Size = new System.Drawing.Size(152, 39);
-            this.rSAToolStripMenuItem.Text = "RSA";
-            this.rSAToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.rSAToolStripMenuItem.Click += new System.EventHandler(this.rSAToolStripMenuItem_Click);
+            this.diffinehellmanToolStripMenuItem.AutoSize = false;
+            this.diffinehellmanToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("diffinehellmanToolStripMenuItem.Image")));
+            this.diffinehellmanToolStripMenuItem.Name = "diffinehellmanToolStripMenuItem";
+            this.diffinehellmanToolStripMenuItem.Size = new System.Drawing.Size(152, 39);
+            this.diffinehellmanToolStripMenuItem.Text = "Diffine_hellman";
+            this.diffinehellmanToolStripMenuItem.Click += new System.EventHandler(this.diffinehellmanToolStripMenuItem_Click);
             // 
             // Menu
             // 
@@ -147,6 +158,7 @@
             this.Name = "Menu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Menu_FormClosing);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -165,5 +177,6 @@
         private System.Windows.Forms.ToolStripMenuItem thoátToolStripMenuItem;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.ToolStripMenuItem rSAToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem diffinehellmanToolStripMenuItem;
     }
 }

@@ -52,6 +52,12 @@
     <Compile Include="Affine.Designer.cs">
       <DependentUpon>Affine.cs</DependentUpon>
     </Compile>
+    <Compile Include="Difine_hellman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Difine_hellman.Designer.cs">
+      <DependentUpon>Difine_hellman.cs</DependentUpon>
+    </Compile>
     <Compile Include="Hill.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,6 +92,9 @@
     </Compile>
     <EmbeddedResource Include="Affine.resx">
       <DependentUpon>Affine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Difine_hellman.resx">
+      <DependentUpon>Difine_hellman.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Hill.resx">
       <DependentUpon>Hill.cs</DependentUpon>

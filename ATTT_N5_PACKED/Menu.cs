@@ -51,6 +51,13 @@ namespace ATTT_N5_PACKED
             rsa.ShowDialog();
         }
 
+        private void diffinehellmanToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Difine_hellman dh = new Difine_hellman();
+            this.Hide();
+            dh.ShowDialog();
+        }
+
         private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -60,7 +67,5 @@ namespace ATTT_N5_PACKED
         {
             Application.Exit();
         }
-
-        
     }
 }

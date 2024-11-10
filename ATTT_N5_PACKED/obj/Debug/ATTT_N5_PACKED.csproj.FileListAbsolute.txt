@@ -12,3 +12,19 @@ D:\code app\Visual studio code\.net\ATTT_N5_PACKED\ATTT_N5_PACKED\obj\Debug\ATTT
 D:\code app\Visual studio code\.net\ATTT_N5_PACKED\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Hill.resources
 D:\code app\Visual studio code\.net\ATTT_N5_PACKED\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Menu.resources
 D:\code app\Visual studio code\.net\ATTT_N5_PACKED\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Vingenere.resources
+D:\code app\github\ATTT\ATTT_N5_PACKED\bin\Debug\ATTT_N5_PACKED.exe.config
+D:\code app\github\ATTT\ATTT_N5_PACKED\bin\Debug\ATTT_N5_PACKED.exe
+D:\code app\github\ATTT\ATTT_N5_PACKED\bin\Debug\ATTT_N5_PACKED.pdb
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.csproj.AssemblyReference.cache
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Affine.resources
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Hill.resources
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Menu.resources
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Playfair.resources
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Properties.Resources.resources
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Rsa.resources
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Vingenere.resources
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.csproj.GenerateResource.cache
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.csproj.CoreCompileInputs.cache
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.exe
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.pdb
+D:\code app\github\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Difine_hellman.resources
