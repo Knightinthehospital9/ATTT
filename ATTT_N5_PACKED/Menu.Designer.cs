@@ -35,9 +35,9 @@
             this.vingenereToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.hillToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.rSAToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.diffinehellmanToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thoátToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.diffinehellmanToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -67,6 +67,7 @@
             this.playfairToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.playfairToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("playfairToolStripMenuItem.Image")));
             this.playfairToolStripMenuItem.Name = "playfairToolStripMenuItem";
+            this.playfairToolStripMenuItem.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.playfairToolStripMenuItem.Size = new System.Drawing.Size(110, 39);
             this.playfairToolStripMenuItem.Text = "Play-fair";
             this.playfairToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -78,6 +79,7 @@
             this.affineToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.affineToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("affineToolStripMenuItem.Image")));
             this.affineToolStripMenuItem.Name = "affineToolStripMenuItem";
+            this.affineToolStripMenuItem.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.affineToolStripMenuItem.Size = new System.Drawing.Size(110, 39);
             this.affineToolStripMenuItem.Text = "Affine";
             this.affineToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -89,6 +91,7 @@
             this.vingenereToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.vingenereToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("vingenereToolStripMenuItem.Image")));
             this.vingenereToolStripMenuItem.Name = "vingenereToolStripMenuItem";
+            this.vingenereToolStripMenuItem.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.vingenereToolStripMenuItem.Size = new System.Drawing.Size(110, 39);
             this.vingenereToolStripMenuItem.Text = "Vingenere";
             this.vingenereToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -100,6 +103,7 @@
             this.hillToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.hillToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("hillToolStripMenuItem.Image")));
             this.hillToolStripMenuItem.Name = "hillToolStripMenuItem";
+            this.hillToolStripMenuItem.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.hillToolStripMenuItem.Size = new System.Drawing.Size(152, 39);
             this.hillToolStripMenuItem.Text = "Hill";
             this.hillToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -110,10 +114,21 @@
             this.rSAToolStripMenuItem.AutoSize = false;
             this.rSAToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("rSAToolStripMenuItem.Image")));
             this.rSAToolStripMenuItem.Name = "rSAToolStripMenuItem";
+            this.rSAToolStripMenuItem.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.rSAToolStripMenuItem.Size = new System.Drawing.Size(152, 39);
             this.rSAToolStripMenuItem.Text = "RSA";
             this.rSAToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.rSAToolStripMenuItem.Click += new System.EventHandler(this.rSAToolStripMenuItem_Click);
+            // 
+            // diffinehellmanToolStripMenuItem
+            // 
+            this.diffinehellmanToolStripMenuItem.AutoSize = false;
+            this.diffinehellmanToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("diffinehellmanToolStripMenuItem.Image")));
+            this.diffinehellmanToolStripMenuItem.Name = "diffinehellmanToolStripMenuItem";
+            this.diffinehellmanToolStripMenuItem.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.diffinehellmanToolStripMenuItem.Size = new System.Drawing.Size(152, 39);
+            this.diffinehellmanToolStripMenuItem.Text = "Diffine_hellman";
+            this.diffinehellmanToolStripMenuItem.Click += new System.EventHandler(this.diffinehellmanToolStripMenuItem_Click);
             // 
             // thoátToolStripMenuItem
             // 
@@ -121,6 +136,7 @@
             this.thoátToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.thoátToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("thoátToolStripMenuItem.Image")));
             this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
+            this.thoátToolStripMenuItem.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.thoátToolStripMenuItem.Size = new System.Drawing.Size(110, 39);
             this.thoátToolStripMenuItem.Text = "Thoát";
             this.thoátToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -137,15 +153,6 @@
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
-            // diffinehellmanToolStripMenuItem
-            // 
-            this.diffinehellmanToolStripMenuItem.AutoSize = false;
-            this.diffinehellmanToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("diffinehellmanToolStripMenuItem.Image")));
-            this.diffinehellmanToolStripMenuItem.Name = "diffinehellmanToolStripMenuItem";
-            this.diffinehellmanToolStripMenuItem.Size = new System.Drawing.Size(152, 39);
-            this.diffinehellmanToolStripMenuItem.Text = "Diffine_hellman";
-            this.diffinehellmanToolStripMenuItem.Click += new System.EventHandler(this.diffinehellmanToolStripMenuItem_Click);
-            // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -156,6 +163,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Menu";
+            this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;

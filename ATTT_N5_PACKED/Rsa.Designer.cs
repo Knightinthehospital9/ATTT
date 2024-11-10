@@ -106,7 +106,7 @@
             this.btn_giaiMa.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn_giaiMa.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btn_giaiMa.Location = new System.Drawing.Point(345, 568);
-            this.btn_giaiMa.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.btn_giaiMa.Margin = new System.Windows.Forms.Padding(6);
             this.btn_giaiMa.Name = "btn_giaiMa";
             this.btn_giaiMa.Size = new System.Drawing.Size(184, 55);
             this.btn_giaiMa.TabIndex = 72;
@@ -159,7 +159,7 @@
             this.btn_Thoat.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn_Thoat.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btn_Thoat.Location = new System.Drawing.Point(655, 568);
-            this.btn_Thoat.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.btn_Thoat.Margin = new System.Windows.Forms.Padding(6);
             this.btn_Thoat.Name = "btn_Thoat";
             this.btn_Thoat.Size = new System.Drawing.Size(184, 55);
             this.btn_Thoat.TabIndex = 77;
@@ -241,7 +241,7 @@
             this.btn_maHoa.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn_maHoa.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btn_maHoa.Location = new System.Drawing.Point(20, 568);
-            this.btn_maHoa.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.btn_maHoa.Margin = new System.Windows.Forms.Padding(6);
             this.btn_maHoa.Name = "btn_maHoa";
             this.btn_maHoa.Size = new System.Drawing.Size(197, 55);
             this.btn_maHoa.TabIndex = 71;
