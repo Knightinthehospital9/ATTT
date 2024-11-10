@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\code app\\github\\ATTT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|d:\\code app\\github\\attt\\attt_n5_packed\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|solutionrelative:attt_n5_packed\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|d:\\code app\\github\\attt\\attt_n5_packed\\frsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|solutionrelative:attt_n5_packed\\frsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|D:\\code app\\github\\ATTT\\attt_n5_packed\\affine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|solutionrelative:attt_n5_packed\\affine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|D:\\code app\\github\\ATTT\\attt_n5_packed\\affine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|solutionrelative:attt_n5_packed\\affine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|D:\\code app\\github\\ATTT\\attt_n5_packed\\frsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|solutionrelative:attt_n5_packed\\frsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|D:\\code app\\github\\ATTT\\attt_n5_packed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|solutionrelative:attt_n5_packed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|D:\\code app\\github\\ATTT\\attt_n5_packed\\vingenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D33A27A0-C348-4739-9707-C584EBB4ECFA}|ATTT_N5_PACKED\\ATTT_N5_PACKED.csproj|solutionrelative:attt_n5_packed\\vingenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,15 +50,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\Menu.cs",
-              "RelativeDocumentMoniker": "ATTT_N5_PACKED\\Menu.cs",
-              "ToolTip": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\Menu.cs [Design]",
-              "RelativeToolTip": "ATTT_N5_PACKED\\Menu.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Affine.cs",
+              "DocumentMoniker": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\Affine.cs",
+              "RelativeDocumentMoniker": "ATTT_N5_PACKED\\Affine.cs",
+              "ToolTip": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\Affine.cs",
+              "RelativeToolTip": "ATTT_N5_PACKED\\Affine.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T16:06:21.482Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-10T13:05:26.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Affine.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\Affine.cs",
+              "RelativeDocumentMoniker": "ATTT_N5_PACKED\\Affine.cs",
+              "ToolTip": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\Affine.cs [Design]",
+              "RelativeToolTip": "ATTT_N5_PACKED\\Affine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:05:24.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\Program.cs",
+              "RelativeDocumentMoniker": "ATTT_N5_PACKED\\Program.cs",
+              "ToolTip": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\Program.cs",
+              "RelativeToolTip": "ATTT_N5_PACKED\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:59:51.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vingenere.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\Vingenere.cs",
+              "RelativeDocumentMoniker": "ATTT_N5_PACKED\\Vingenere.cs",
+              "ToolTip": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\Vingenere.cs [Design]",
+              "RelativeToolTip": "ATTT_N5_PACKED\\Vingenere.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:59:50.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fRSA.cs",
+              "DocumentMoniker": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\fRSA.cs",
+              "RelativeDocumentMoniker": "ATTT_N5_PACKED\\fRSA.cs",
+              "ToolTip": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\fRSA.cs",
+              "RelativeToolTip": "ATTT_N5_PACKED\\fRSA.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:58:08.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fRSA.cs [Design]",
+              "DocumentMoniker": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\fRSA.cs",
+              "RelativeDocumentMoniker": "ATTT_N5_PACKED\\fRSA.cs",
+              "ToolTip": "D:\\code app\\github\\ATTT\\ATTT_N5_PACKED\\fRSA.cs [Design]",
+              "RelativeToolTip": "ATTT_N5_PACKED\\fRSA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:57:48.056Z"
             }
           ]
         }

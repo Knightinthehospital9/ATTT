@@ -52,6 +52,12 @@
     <Compile Include="Affine.Designer.cs">
       <DependentUpon>Affine.cs</DependentUpon>
     </Compile>
+    <Compile Include="fRSA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fRSA.Designer.cs">
+      <DependentUpon>fRSA.cs</DependentUpon>
+    </Compile>
     <Compile Include="Hill.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +86,9 @@
     </Compile>
     <EmbeddedResource Include="Affine.resx">
       <DependentUpon>Affine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fRSA.resx">
+      <DependentUpon>fRSA.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Hill.resx">
       <DependentUpon>Hill.cs</DependentUpon>

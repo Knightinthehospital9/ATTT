@@ -54,5 +54,12 @@ namespace ATTT_N5_PACKED
         {
             Application.Exit();
         }
+
+        private void rSAToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fRSA rsa = new fRSA();
+            this.Hide();
+            rsa.ShowDialog();
+        }
     }
 }

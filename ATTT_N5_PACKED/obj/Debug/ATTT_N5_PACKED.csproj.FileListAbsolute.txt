@@ -12,3 +12,32 @@ D:\code app\Visual studio code\.net\ATTT_N5_PACKED\ATTT_N5_PACKED\obj\Debug\ATTT
 D:\code app\Visual studio code\.net\ATTT_N5_PACKED\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Hill.resources
 D:\code app\Visual studio code\.net\ATTT_N5_PACKED\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Menu.resources
 D:\code app\Visual studio code\.net\ATTT_N5_PACKED\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Vingenere.resources
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\bin\Debug\ATTT_N5_PACKED.exe.config
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\bin\Debug\ATTT_N5_PACKED.exe
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\bin\Debug\ATTT_N5_PACKED.pdb
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.csproj.AssemblyReference.cache
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Affine.resources
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Hill.resources
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Menu.resources
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Playfair.resources
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Properties.Resources.resources
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Vingenere.resources
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.csproj.GenerateResource.cache
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.csproj.CoreCompileInputs.cache
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.exe
+C:\C#\TT_ATTT\ATTT\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.pdb
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\bin\Debug\ATTT_N5_PACKED.exe.config
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\bin\Debug\ATTT_N5_PACKED.exe
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\bin\Debug\ATTT_N5_PACKED.pdb
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.csproj.AssemblyReference.cache
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Affine.resources
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.fRSA.resources
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Hill.resources
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Menu.resources
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Playfair.resources
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Properties.Resources.resources
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.Vingenere.resources
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.csproj.GenerateResource.cache
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.csproj.CoreCompileInputs.cache
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.exe
+D:\tailieuATTT\ATTT_N5\ATTT_N5_PACKED\obj\Debug\ATTT_N5_PACKED.pdb
